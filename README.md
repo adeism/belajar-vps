@@ -1,4 +1,4 @@
-# 🌐 Panduan Lengkap: Menyiapkan VPS Siap Produksi
+# 🌐 Panduan Menyiapkan VPS
 
 Panduan ini membantu Anda menyiapkan VPS hingga **siap produksi** dengan langkah-langkah sederhana. Cocok untuk pemula yang ingin mempelajari dasar-dasar pengelolaan VPS.
 
