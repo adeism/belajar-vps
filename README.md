@@ -4,16 +4,6 @@ Panduan ini membantu Anda menyiapkan VPS hingga **siap produksi** dengan langkah
 
 ---
 
-## 🛠️ Fitur VPS Siap Produksi
-
-- 🌍 **DNS Konfigurasi**: Menghubungkan nama domain ke VPS.
-- 🔒 **Keamanan**: Pengamanan koneksi dengan TLS otomatis, SSH aman, dan firewall.
-- 📈 **Pemantauan**: Notifikasi jika aplikasi Anda mengalami downtime.
-- ⚡ **Ketersediaan Tinggi**: Load balancing untuk menjaga reliabilitas.
-- 🔄 **Penerapan Otomatis**: Mempermudah update aplikasi tanpa downtime.
-
----
-
 ## 📋 Persyaratan
 
 1. VPS dengan sistem operasi, disarankan **Ubuntu 20.04 LTS**.
@@ -54,8 +44,7 @@ su - nama_pengguna  # Beralih ke akun pengguna baru yang telah dibuat
 
 ### 3️⃣ Mengatur DNS untuk Nama Domain
 
-1. **Beli domain** dari penyedia layanan seperti Hostinger.
-2. Tambahkan **A Record** di pengaturan DNS domain Anda, arahkan ke IP VPS.
+**Beli domain** kemudian Tambahkan **A Record** di pengaturan DNS domain Anda, arahkan ke IP VPS.
 
 Contoh:
 | Tipe | Nama  | Alamat IP     |
