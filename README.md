@@ -205,10 +205,6 @@ Agar pengguna `nama_pengguna` dapat memiliki akses PPK (Public Private Key), iku
 *Penjelasan*: Langkah-langkah ini memastikan bahwa hanya pengguna `nama_pengguna` yang dapat mengakses VPS menggunakan kunci SSH.
 
 ---
-
-Semoga bermanfaat! 🚀✨
-
----
 ### Rangkuman dari sumber-sumber:
 - [Setting up a production ready VPS is a lot easier than I thought.](https://www.youtube.com/watch?v=F-9KWQByeU0)
 - bersambung
