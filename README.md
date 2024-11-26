@@ -207,3 +207,8 @@ Agar pengguna `nama_pengguna` dapat memiliki akses PPK (Public Private Key), iku
 ---
 
 Semoga bermanfaat! 🚀✨
+
+---
+### Rangkuman dari sumber-sumber:
+- [Setting up a production ready VPS is a lot easier than I thought.](https://www.youtube.com/watch?v=F-9KWQByeU0)
+- bersambung
