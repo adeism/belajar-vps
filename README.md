@@ -6,7 +6,7 @@ Panduan ini membantu Anda menyiapkan VPS hingga **siap produksi** dengan langkah
 
 ## 📋 Persyaratan
 
-1. VPS dengan sistem operasi, disarankan **Ubuntu 20.04 LTS**.
+1. VPS dengan sistem operasi, untuk panduan ini disarankan **Ubuntu 20.04 LTS**.
 2. Nama domain untuk aplikasi atau layanan Anda.
 3. Dasar-dasar penggunaan terminal dan SSH.
 
